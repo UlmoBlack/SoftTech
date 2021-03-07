@@ -3,3 +3,6 @@ C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTechTeknikVaka\SoftTechTeknikVaka\b
 C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTechTeknikVaka\SoftTechTeknikVaka\bin\Debug\SoftTechTeknikVaka.pdb
 C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTechTeknikVaka\SoftTechTeknikVaka\obj\Debug\SoftTechTeknikVaka.exe
 C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTechTeknikVaka\SoftTechTeknikVaka\obj\Debug\SoftTechTeknikVaka.pdb
+C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTech\SoftTechTeknikVaka\bin\Debug\SoftTechTeknikVaka.exe.config
+C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTech\SoftTechTeknikVaka\obj\Debug\SoftTechTeknikVaka.exe
+C:\Users\Ulmo\Desktop\SoftTechTeknikVaka\SoftTech\SoftTechTeknikVaka\obj\Debug\SoftTechTeknikVaka.pdb
